@@ -1,7 +1,7 @@
-## Oi, sou o nicolas ximenes!
+## Oi, sou o Nicolas Cavalcanti!
 
 - 🔭 Python e Banco de dados
-- ⌨️ No momento estou estudando JavaScript
+- ⌨️ No momento estou estudando Python 
 - 💻 Trabalho como Freelancer
 
 <div style="display: inline_block"><br>
