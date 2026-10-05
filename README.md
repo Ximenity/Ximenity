@@ -1,9 +1,15 @@
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/90/4b/43/904b43f865c5522fe92bc52b5abb3d61.gif" width="70%" height="160" alt="header">
 
 <div align="center">
 
 # Nicolas Cavalcanti
 
 ### `Estudante de ciência da computação`
+
+<img align="left" src="https://i.pinimg.com/originals/7b/0e/a7/7b0ea72a539527440c293fd2c39d0636.gif" width="140">
+<img align="right" src="https://i.pinimg.com/originals/3a/b5/8d/3ab58d9b726f9eeda702b7cc4836a714.gif" width="140">
 
 *perhaps we'll meet again.*
 
@@ -21,7 +27,7 @@
 <div>
   <a href="https://www.instagram.com/nicophobia__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicolascavalcanti777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://br.linkedin.com/in/nicolas-ximenes-687926218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/nicolas-ximenes-687926218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
