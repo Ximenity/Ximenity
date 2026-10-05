@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Nicolas Cavalcanti
+# Nicolas Cavalcanti 
 
 ### `Estudante de ciência da computação`
 
@@ -60,8 +60,30 @@
 │                                          │
 │  → trabalhando em projetos pessoais      │
 │    e acadêmicos                          │
-│                                          │ 
 │                                          │
 ╰──────────────────────────────────────────╯
 
+```
 
+<div align="center">
+
+        ☾
+   ───────────────
+      still here,
+      still learning.
+   ───────────────
+
+</div>
+
+── github
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ximenity&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" width="420">
+
+</div>
+<div align="center">
+
+
+╭──────────────────────────────────╮
+              🃏
+╰──────────────────────────────────╯
