@@ -8,7 +8,7 @@
 
 ### `Estudante de ciência da computação`
 
-<img align="left" src="https://i.pinimg.com/originals/7b/0e/a7/7b0ea72a539527440c293fd2c39d0636.gif" width="140">
+<img align="left" src="https://i.pinimg.com/originals/04/92/f2/0492f292d7e6dc0c710249f9d05fdca6.gif" width="140">
 <img align="right" src="https://i.pinimg.com/originals/3a/b5/8d/3ab58d9b726f9eeda702b7cc4836a714.gif" width="140">
 
 *perhaps we'll meet again.*
